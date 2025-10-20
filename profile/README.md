@@ -10,6 +10,9 @@ by checking out the various repositories on this site, and the project list at h
 **Contribute your own Pulseq project:** We invite you to submit your own project using the Google form at https://harmonizedmri.github.io/, 
 or join the development team and create a new repository on this site.
 
+**Pulseq user group virtual meeting:** Please join our monthly Pulseq user group virtual meeting, open to anyone interested in Pulseq
+[registration here](https://umich.zoom.us/meeting/register/DDHjJS_lTtS9ADGvekSKQw).
+
 **We want to hear from you!**
 Please take a moment to fill out
 [this form](https://docs.google.com/forms/d/e/1FAIpQLSeqZ1c43RXhGUqAE8bWypmY2fRfSjww0_xki_Qv89HJqhZ2qA/viewform)
